@@ -15,3 +15,4 @@ wave:
 
 clean :
 	rm -f *.o *.cf *.ghw
+	rm -f $(MNAME)
